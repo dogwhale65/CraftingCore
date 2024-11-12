@@ -77,6 +77,13 @@ Block: Netherrack
 
 ![crafting-grid (2)](https://github.com/user-attachments/assets/68f91006-c22c-4e20-9b73-b602593ff463)
 
+### Cat Spawn Egg
+Item: Any type of fish
+
+Block: Grass Block
+
+![crafting-grid (3)](https://github.com/user-attachments/assets/dab26621-6c50-4640-bd6b-4839c7713982)
+
 
 ### Camel Spawn Egg
 Item: Cactus
@@ -399,6 +406,14 @@ Block: Water Bucket
 ![crafting-grid (58)](https://github.com/user-attachments/assets/f1296d86-f4e4-4917-b553-2f7db0244a0d)
 
 
+### Sheep Spawn Egg
+Item: Any Wool
+
+Block: Grass Block
+
+![crafting-grid (1)](https://github.com/user-attachments/assets/2cd967d5-82c8-4b21-8c9e-0e6f00d99a6b)
+
+
 ### Shulker Spawn Egg
 Item: Shulker Shell
 
@@ -437,6 +452,13 @@ Item: Slime Ball
 Block: Grass Block
 
 ![crafting-grid (53)](https://github.com/user-attachments/assets/c681090d-1abc-435b-b5ec-c7afad00dca9)
+
+### Sniffer Spawn Egg
+Item: Any Flower
+
+Block: Grass Block
+
+![crafting-grid (2)](https://github.com/user-attachments/assets/78f437e2-6570-4813-bafb-9cf1e724ef38)
 
 
 ### Snow Golem Spawn Egg
@@ -510,6 +532,12 @@ Block: Grass Block
 
 ![crafting-grid (44)](https://github.com/user-attachments/assets/b1a69b0b-d0ac-46e8-a826-58a504456d1b)
 
+### Vilager Spawn Egg
+Item: Any Bed
+
+Block: Grass Block
+
+![crafting-grid](https://github.com/user-attachments/assets/3dfa071a-9fe5-4461-82be-cc5371efe18d)
 
 ### Vindicator Spawn Egg
 Item: Iron Axe
