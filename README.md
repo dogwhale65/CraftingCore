@@ -24,7 +24,7 @@ Handle: Breeze Rods
 
 ![crafting-grid (64)](https://github.com/user-attachments/assets/41267a72-9aa3-4384-8549-f411aa86915d)
 
-
+#
 ## Horse Armor:
 
 ### Diamond Horse Armor:
@@ -44,7 +44,7 @@ Handle: Breeze Rods
 
 
 
-
+#
 ## Spawn eggs:
 
 ### Axolotl Spawn Egg
