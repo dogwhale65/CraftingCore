@@ -30,15 +30,15 @@ Handle: Breeze Rods
 ### Diamond Horse Armor:
 ![crafting-grid (65)](https://github.com/user-attachments/assets/03747376-9abb-4cc2-af84-ab5090da00e7)
 
-
+#
 ### Golden Horse Armor:
 ![crafting-grid (66)](https://github.com/user-attachments/assets/d9b2cebc-853f-4cb2-82a2-ca5a1211d58c)
 
-
+#
 ### Iron Horse Armor:
 ![crafting-grid (67)](https://github.com/user-attachments/assets/b3cbcef0-a670-41e9-b542-e70ee94c09ef)
 
-
+#
 ### Leather Horse Armor:
 ![crafting-grid (68)](https://github.com/user-attachments/assets/2c885702-12ab-4c82-b770-c8ca91129625)
 
