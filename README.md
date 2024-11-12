@@ -532,7 +532,7 @@ Block: Grass Block
 
 ![crafting-grid (44)](https://github.com/user-attachments/assets/b1a69b0b-d0ac-46e8-a826-58a504456d1b)
 
-### Vilager Spawn Egg
+### Villager Spawn Egg
 Item: Any Bed
 
 Block: Grass Block
